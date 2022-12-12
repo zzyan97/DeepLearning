@@ -1,0 +1,1 @@
+Generative adversarial network (GAN) is a innovated deep learning method. We are interested in if autoencoder can enchance the performance of GAN. We developed code for autoencoder-enchanced GAN in `Autoencoder_Enhanced_GAN.ipynb`. By comparison, `GAN_Random_Noise.ipynb` is for the ordinary GAN.
